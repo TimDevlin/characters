@@ -1,3 +1,9 @@
 #darkhelmet, #vespa, #pizza, #lonestarr {
   display: none;
 }
+
+.pepperoni {
+  color: red;
+  letter-spacing: 10px;
+  font-size: 45px;
+}
